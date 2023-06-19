@@ -13,6 +13,6 @@ API gemaakt in Laravel.
 
 ## Opstarten
 
-Om het project local te kunnen opstarten is XAMPP control panel nodig. Vervolgens moet er een database met de naam beschreve in de config bestand in phpmyadmin aanwezig zijn. Met een API testing tool, zoals Postman is het mogelijk met de gegeven API routes opgeslagen database gegevens te lezen, verwijderen, updaten en aanmaken (CRUD systeem).
+Om het project local te kunnen opstarten is XAMPP control panel nodig. Vervolgens moet er een database met de naam beschreven in de config bestand in phpmyadmin aanwezig zijn. Met een API testing tool, zoals Postman is het mogelijk met de gegeven API routes opgeslagen database gegevens te lezen, verwijderen, updaten en aanmaken (CRUD systeem).
 
 
